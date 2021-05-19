@@ -1,0 +1,23 @@
+.login {
+    color:green;
+}
+
+.loginTest {
+    color: blue;
+}
+.id,.pw {
+    color: brown;
+}
+
+.logoutBox {
+    margin-top: 10px;
+}
+
+#button {
+    text-align: left;
+    margin-top: 10px;
+}
+
+#button>button {
+    padding: 0 66px;   
+}
