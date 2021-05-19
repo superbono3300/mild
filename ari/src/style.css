@@ -1,0 +1,74 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  body {
+    background-color: #ECF0F1;
+  }
+  
+  #wrapper {
+    width: 650px;
+    height: 1200px;
+    background-color: #fff;
+    margin: 0 auto;
+    border-radius: 10px;
+  }
+  
+  .wrapper {
+    margin-top: 10px;
+  }
+  
+  .loginForm {
+    width: 350px;
+    height: 400px;
+    position: absolute;
+    top: 82%;
+    left: 50%;
+    transform: translate(-50%, -90%);
+  }
+  
+  .clickBtn {
+    display: block;
+    width: 310px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 3px;
+    cursor: pointer;
+    background-color: #D1D5D8;
+  }
+  
+  input {
+    width: 300px;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    background-color: #EEEEEE;
+    padding-left: 10px;
+  }
+  
+  input::placeholder {
+  }
+  
+  .btnWrapper {
+    margin-top: -10px;
+  }
+  
+  .message {
+    margin-top: -140px;
+    color: darkblue;
+    margin-bottom: 50px;
+  }
+  
+  .message > h1 {
+    font-size: 43px;
+  }
+
+  #userName {
+    margin-bottom: 10px;
+  }
+
+  h1 {
+    font-size: 37px;
+  }
